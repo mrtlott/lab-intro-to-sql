@@ -13,7 +13,7 @@ CREATE DATABASE regifter;
 -- id serial primary KEY
 -- gift - string
 -- giver - string
--- value - integer
+-- price - integer
 -- previously_regifted boolean
 
 
