@@ -57,7 +57,7 @@ CREATE DATABASE regifter;
 
 
 --
-\echo Query for gifts with a price greater than or equal to 20
+\echo Query for gifts with a value greater than or equal to 20
 --
 
 
